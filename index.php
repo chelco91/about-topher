@@ -7,7 +7,7 @@
 	<body>
 		<img src="images/image1.gif">
 
-		<p></p>
+		<p>Hey guys. </p>
 		<p></p>
 	</body>
 </html>
