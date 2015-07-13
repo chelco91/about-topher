@@ -1,0 +1,17 @@
+* {margin: 0; padding: 0;}
+html {
+
+}
+body {
+	height: 500px;
+}
+img{
+	align-self: center;
+	height: 75%;
+	width: 75%;
+}
+p {
+	font-family: cursive;
+	font-size: large;
+	font-weight: 300;
+}
